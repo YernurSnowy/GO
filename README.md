@@ -10,7 +10,8 @@
 
 ## Скриншот
 
-![Скриншот интерфейса](![image](https://github.com/YernurSnowy/GO/assets/120705475/fa484950-ef1e-4da6-94f8-467b4fa70e55)])
+![image](https://github.com/YernurSnowy/GO/assets/120705475/692a417a-ee55-4829-b3b5-de6da112f3f2)
+
 
 ## Запуск приложения
 
